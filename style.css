@@ -1,0 +1,195 @@
+/* h1, h2, h3, h4, h5, h6 {
+    color: #e57373;
+    font-weight: 200;
+} */
+
+/* .p blockquote {
+    color: #616161
+} */
+
+
+.navbar-text {
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.section-menu {
+    background: #e0e5eb;
+}
+
+.menu-text {
+    Color: #c71e38;
+    font-weight: 600;
+    font-size: 5.6rem;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.caption-link {
+    color:#ffffff;
+    font-weight: 500;
+}
+
+.flavours-link {
+    color:#111111;
+    font-weight: 700;
+    font-size: medium;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    text-decoration: underline;
+}
+
+.flavours-link:hover {
+    font-weight: 600;
+    font-size: large;
+}
+
+.card-menu-link {
+    background: #ffafa5;
+    background-position: right 0% bottom 0%;
+    padding: 0px 0px 0px;
+}
+
+.section-what {
+    background: #555272;
+}
+
+.what-we-do {
+    font-size: 4rem;
+    color: #ffffff; 
+    text-align: center;
+}
+
+.what-p {
+    color: #ffffff; 
+    font-size: 2rem; 
+    text-align: center;
+}
+
+.what-name {
+    font-size: 3rem; 
+    font-weight: 500; 
+    text-align: center; 
+    color: #ffffff;
+}
+
+.what-description {
+    font-weight: 10; 
+    text-align: center; 
+    font-size: 1.5rem; 
+    color: #ffffff;
+}
+
+.section-vanilla {
+    background:#e0e5eb;
+}
+.vanilla-icecream-header {
+    font-size: 88px;
+    font-weight: 600;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.vanilla-image {
+    height: 50rem !important; 
+    padding: 0;
+}
+
+.col-vanilla {
+    height: 50rem !important; 
+    background: transparent;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    text-align: left-align;
+    color: #111111;
+    font-size: 20px;
+}
+
+.learn-more-link-btn {
+    color:#111111;
+    font-weight: 700;
+    font-size: medium;
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    text-decoration: underline;    
+    background: transparent;
+
+}
+
+.learn-more-link-btn:hover {
+    background-color: #111111;
+    color: #d3d1e2;
+    font-size: large;
+}
+
+.section-prep {
+    background: #555272;
+}
+
+.pick-orders {
+    color: #ffffff;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.order-call {
+    color: #ffffff;
+    
+}
+
+.order-call:hover {
+    color: #c71e38;
+    font-size: 2rem;
+}
+
+.section-contact {
+    background:#e0e5eb;
+}
+
+.contact-header {
+    font-size: 5rem;
+    font-weight: 700;
+}
+
+.address-link {
+    font-size: 30px;
+    margin: 20px 0px 0px;
+}
+    
+.contact-link {
+    font-size: 30px;
+    color: #c71e38;
+}
+
+.contact-link:hover {
+    font-size: 2rem;
+    text-decoration: underline;
+    color: #c71e38;
+}
+
+.container-subscribe {
+    background: #555272;
+    padding: 10px;
+}
+
+.header-subscribe {
+    font-size: 50px;
+    font-weight: 700;
+    color: #ffffff;
+    margin: 40px;
+    padding: 0px 43px 50px;
+}
+
+.footer-icons {
+    color: #ffffff;
+}
+  
+.footer-icons:hover {
+    color: #c71e38;
+}
